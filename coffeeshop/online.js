@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function () {
                             </div>
                             <div class="footer-copyright">
                                 <div class="container">
-                                    <span>© 2018-2022 Copyright WolkInCloset. Todos los derechos reservados.</span>
+                                    <span>© 2018-2022 Copyright . Todos los derechos reservados.</span>
                                     <span class="right">Diseñado con
                                         <a href="http://materializecss.com/" target="_blank">
                                             <img src="materialize.png" height="20" style="vertical-align:middle" alt="Materialize">
