@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                     <span>© 2018-2022 Copyright WolkInCloset. Todos los derechos reservados.</span>
                                     <span class="right">Diseñado con
                                         <a href="http://materializecss.com/" target="_blank">
-                                            <img src="../../resources/img/materialize.png" height="20" style="vertical-align:middle" alt="Materialize">
+                                            <img src="materialize.png" height="20" style="vertical-align:middle" alt="Materialize">
                                         </a>
                                     </span>
                                 </div>
